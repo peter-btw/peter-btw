@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peter-btw
 - 👀 I’m mainly interested in Web Applications
-- 🌱 I’m currently learning Nuxt.js and Rust
+- 🌱 I’m currently using Nuxt.js
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
